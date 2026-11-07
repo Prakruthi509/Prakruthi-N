@@ -1,26 +1,51 @@
-# Hi, I'm a Developer! 👋
+# 👋 Hi, I'm a Student Developer!
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! 🚀
 
-## About Me
-- 🎓 Student interested in technology.
-- 💻 Learning Java and Python.
+## 🌟 About Me
+- 🎓 Student passionate about technology and programming.
+- 💻 Learning Python and Java.
 - 🤖 Interested in Artificial Intelligence and AI Agents.
-- 🚀 Aspiring Software Developer.
+- 🚀 Exploring new technologies and building projects.
+- 🎯 Aspiring Software Developer.
 
-## Technical Skills
-- Java
-- Python
+## 💻 Programming Languages
+- 🐍 Python
+- ☕ Java
+
+## 🛠️ Technical Skills
+- Python Programming
+- Java Programming
 - Problem Solving
-- AI & Machine Learning (Learning)
+- Object-Oriented Programming (Learning)
+- Prompt Engineering (Learning)
+- Artificial Intelligence (Learning)
+- AI Agents (Learning)
 
-## Projects
-- Java Programming Practice
-- Python Projects
-- AI Agent Projects (Upcoming)
+## 📚 Currently Learning
+- Python Programming
+- Java Programming
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- AI Agents and Automation
+- Git and GitHub
 
-## Goals
+## 📂 My Projects
+- 🐍 Python Programming Practice
+- ☕ Java Programming Practice
+- 🤖 AI Agent Projects (Coming Soon)
+- 💡 Beginner Coding Projects
+
+## 🎯 My Goals
 - Improve my programming skills.
 - Build real-world projects.
 - Participate in hackathons.
+- Explore AI and automation.
 - Become a skilled software developer.
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/Prakruthi-N
+
+---
+
+⭐ Thanks for visiting my profile! Keep Learning and Keep Building! 🚀
